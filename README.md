@@ -3,16 +3,16 @@
 특성화고 졸업자 지원가능 전형 위주로 기술, 기회균등, 논술 전형은 제외함 <br>
 
 ## 요약
-| 학교명 | 전형 | 학과 | 인원 | 작년 컷트 | 인재상 | 주소 |
+| 학교명 | 전형 | 학과 | 인원 | 작년 컷트 | 주소 |
 | ---- | --- | --- | --- |------ | ----- | --- |
-| 연세대 | 특졸, IT특기자 | 컴공/글로벌 | 정원외/20명 | - | - | [here](http://www.yonsei.ac.kr/sc/admission/admission.jsp) |
-| 고려대 | 특졸, 특기자 | 컴공/사국 | 정원외/18명 | - | - | [here](http://oku.korea.ac.kr/oku/index.jsp) |
-| 서강대 | 학종(자기주도), 특졸, 알바트로스 | 컴공 | 23명/정원외/11명 | - | - | [here](https://www.sogang.ac.kr/admin/grad_01.html) |
-| 성균관대 | 글로벌, SW인재, 특졸 | SW학과 | 40명/60명/정원외 | - | - | [here](https://admission.skku.edu/) |
-| 한양대 | 학종 일반, 특졸, SW인재 | SW학부 | 43명/5명/13명 | - | - | [here](http://iphak.hanyang.ac.kr/new/2017/intro/) |
-| 중앙대 | SW인재 | SW학부 | 67명 | 2점대 정도 | - | [here](http://admission.cau.ac.kr/intro/intro.html) |
-| 경희대 | 네오르네상스, 특졸 | 컴공, SW융합 | 18.5명/2명 | 특졸 1점대 중반 | 탐구 정신, 복합 분야 개척 | [here](http://iphak.khu.ac.kr/main.do) |
-| 시립대 | 학종, 특졸 | 전기컴공, 컴과 | 40명,18명/1명 | 2점대 정도 | 기초 지식, 협동 | [here](http://admission.uos.ac.kr/admission/main.do) |
+| 연세대 | 특졸, IT특기자 | 컴공/글로벌 | 정원외/20명 | - | [here](http://www.yonsei.ac.kr/sc/admission/admission.jsp) |
+| 고려대 | 특졸, 특기자 | 컴공/사국 | 정원외/18명 | - | [here](http://oku.korea.ac.kr/oku/index.jsp) |
+| 서강대 | 학종(자기주도), 특졸, 알바트로스 | 컴공 | 23명/정원외/11명 | - | [here](https://www.sogang.ac.kr/admin/grad_01.html) |
+| 성균관대 | 글로벌, SW인재, 특졸 | SW학과 | 40명/60명/정원외 | - | [here](https://admission.skku.edu/) |
+| 한양대 | 학종 일반, 특졸, SW인재 | SW학부 | 43명/5명/13명 | - | [here](http://iphak.hanyang.ac.kr/new/2017/intro/) |
+| 중앙대 | SW인재 | SW학부 | 67명 | 2점대 정도 | [here](http://admission.cau.ac.kr/intro/intro.html) |
+| 경희대 | 네오르네상스, 특졸 | 컴공, SW융합 | 18.5명/2명 | 특졸 1점대 중반 | [here](http://iphak.khu.ac.kr/main.do) |
+| 시립대 | 학종, 특졸 | 전기컴공, 컴과 | 40명,18명/1명 | 2점대 정도 | [here](http://admission.uos.ac.kr/admission/main.do) |
 
 ## 개별 대학
 
