@@ -7,7 +7,7 @@
 | ---- | --- | --- | --- |------ | ----- | --- |
 | 연세대 | 특졸, IT특기자 | 컴공/글로벌 | 정원외/20명 | - | - | [here](http://www.yonsei.ac.kr/sc/admission/admission.jsp) |
 | 고려대 | 특졸, 특기자 | 컴공/사국 | 정원외/18명 | - | - | [here](http://oku.korea.ac.kr/oku/index.jsp) |
-| 서강대 | 학종(자기주도), 특졸, 알바트로스 | 컴공 | 23명/11명/정원외 | - | - | [here](https://www.sogang.ac.kr/admin/grad_01.html) |
+| 서강대 | 학종(자기주도), 특졸, 알바트로스 | 컴공 | 23명/정원외/11명 | - | - | [here](https://www.sogang.ac.kr/admin/grad_01.html) |
 
 ## 개별 대학
 
