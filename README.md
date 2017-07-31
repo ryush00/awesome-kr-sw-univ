@@ -12,7 +12,7 @@
 | 한양대 | 학종 일반, 특졸, SW인재 | SW학부 | 43명/5명/13명 | - | - | [here](http://iphak.hanyang.ac.kr/new/2017/intro/) |
 | 중앙대 | SW인재 | SW학부 | 67명 | 2점대 정도 | - | [here](http://admission.cau.ac.kr/intro/intro.html) |
 | 경희대 | 네오르네상스, 특졸 | 컴공, SW융합 | 18.5명/2명 | 특졸 1점대 중반 | - | [here](http://iphak.khu.ac.kr/main.do) |
-| 시립대 | 학종, 특졸 | 전기컴공, 컴과 | 40명,18명/1명 | 2점대 정도 | 수학, 기초과학, 외국어 능력, 탐구적 문제해결력, 협동 | [here](http://admission.uos.ac.kr/admission/main.do) |
+| 시립대 | 학종, 특졸 | 전기컴공, 컴과 | 40명,18명/1명 | 2점대 정도 | 수학, 기초과학, 외국어, 문제해결력, 협동 | [here](http://admission.uos.ac.kr/admission/main.do) |
 
 ## 개별 대학
 
