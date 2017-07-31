@@ -11,7 +11,7 @@
 | 성균관대 | 글로벌, SW인재, 특졸 | SW학과 | 40명/60명/정원외 | - | - | [here](https://admission.skku.edu/) |
 | 한양대 | 학종 일반, 특졸, SW인재 | SW학부 | 43명/5명/13명 | - | - | [here](http://iphak.hanyang.ac.kr/new/2017/intro/) |
 | 중앙대 | SW인재 | SW학부 | 67명 | 2점대 정도 | - | [here](http://admission.cau.ac.kr/intro/intro.html) |
-| 경희대 | 학종, 특졸 | 컴공, SW융합 | 특졸 1점대 중반 | - | [here](http://iphak.khu.ac.kr/main.do) |
+| 경희대 | 네오르네상스, 특졸 | 컴공, SW융합 | 18.5명/2명 | 특졸 1점대 중반 | - | [here](http://iphak.khu.ac.kr/main.do) |
 
 ## 개별 대학
 
