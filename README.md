@@ -4,25 +4,25 @@
 오탈자, 잘못된 정보, 추가 정보에 대한 풀리퀘, 메일, 커멘트 모두 받음 (revsic99@gmail.com) <br>
 
 ## 요약
-| 학교명 | 전형 | 학과 | 인원 | 작년 컷트 | 주소 |
+| 학교명 | 학과 | 전형 | 총인원 | 작년 컷트 | 주소 |
 | ---- | --- | --- | --- |-------- | -- |
-| 연세대 | 특졸, IT특기자 | 컴공/글로벌 | 정원외/20 | - | [here](http://www.yonsei.ac.kr/sc/admission/admission.jsp) |
-| 고려대 | 특졸, 특기자 | 컴공/사국 | 정원외/18 | - | [here](http://oku.korea.ac.kr/oku/index.jsp) |
-| 서강대 | 학종(자기주도), 특졸, 알바트로스 | 컴공 | 23/정원외/11 | - | [here](https://www.sogang.ac.kr/admin/grad_01.html) |
-| 성균관대 | 글로벌, SW인재, 특졸 | SW학과 | 40/60/정원외 | - | [here](https://admission.skku.edu/) |
-| 한양대 | 학종 일반, 특졸, SW인재 | SW학부 | 43/5/13 | - | [here](http://iphak.hanyang.ac.kr/new/2017/intro/) |
-| 중앙대 | SW인재 | SW학부 | 67 | 2점대 정도 | [here](http://admission.cau.ac.kr/intro/intro.html) |
-| 경희대 | 네오르네상스, 특졸 | 컴공, SW융합 | 18.5/2 | 특졸 1점대 중반 | [here](http://iphak.khu.ac.kr/main.do) |
-| 시립대 | 학종, 특졸 | 전기컴공, 컴과 | 29/1 | 2점대 정도 | [here](http://admission.uos.ac.kr/admission/main.do) |
-| 건국대 | 자추, 학추, 특졸 | 컴공, SW | 14.5/12 | - | [here](https://www.konkuk.ac.kr/) |
-| 동국대 | 두드림, 학추, 특졸, SW | 컴공, 정통 | 15.5/15.5/2/10 | - | [here](https://ipsi.dongguk.edu/MnMain.do) |
-| 홍익대 | 교과, 학종 | 컴공 | 54/26 | - | [here](https://ibsi.hongik.ac.kr/gate.html) |
-| 국민대 | 프론티어, 학추, SW특기자 | SW학부 | 34/20/10 | - | [here](http://admission.kookmin.ac.kr/) |
-| 숭실대 | 학종, 특졸, SW특기자 | 산정, 컴공, SW, 스마트 | 17/6/7 | - | [here](http://iphak.ssu.ac.kr/) |
-| 세종대 | 창의인재 | 컴공, 보안, SW, 데이터 | 20 | - | [here](http://ipsi.sejong.ac.kr/) |
-| 단국대 | 학종, 창업인재 | SW, 컴공 | 10 | - | [here](http://ipsi.dankook.ac.kr/intro.php) |
-| 아주대 | 교과, ACE, 자추, 특졸, SW특기자 | SW, 보안 | 1/15/8/3/ | 작년 4점대 | [here](http://www.iajou.ac.kr/main/main.asp) |
-| 순천향대 | 교과(일반, 특졸), 학종 | SW, 컴공, 보안 | 25/3/9 | 작년 3,4점대 | [here](https://ipsi.sch.ac.kr/) |
+| 연세대 | 컴공/글로벌 | 특졸, IT특기자 | 정원외/20 | - | [here](http://www.yonsei.ac.kr/sc/admission/admission.jsp) |
+| 고려대 | 컴공/사국 | 특졸, 특기자 | 정원외/18 | - | [here](http://oku.korea.ac.kr/oku/index.jsp) |
+| 서강대 | 컴공 | 학종(자기주도), 특졸, 알바트로스 | 23/정원외/11 | - | [here](https://www.sogang.ac.kr/admin/grad_01.html) |
+| 성균관대 | SW학과 | 글로벌, SW인재, 특졸 | 40/60/정원외 | - | [here](https://admission.skku.edu/) |
+| 한양대 | SW학부 | 학종 일반, 특졸, SW인재 | 43/5/13 | - | [here](http://iphak.hanyang.ac.kr/new/2017/intro/) |
+| 중앙대 | SW학부 | SW인재 | 67 | 2점대 정도 | [here](http://admission.cau.ac.kr/intro/intro.html) |
+| 경희대 | 컴공, SW융합 | 네오르네상스, 특졸 | 37/2 | 특졸 1점대 중반 | [here](http://iphak.khu.ac.kr/main.do) |
+| 시립대 | 전기컴공, 컴과 | 학종, 특졸 | 58/1 | 2점대 정도 | [here](http://admission.uos.ac.kr/admission/main.do) |
+| 건국대 | 컴공, SW | 자추, 학추, 특졸 | 26/27/정원외 | - | [here](https://www.konkuk.ac.kr/) |
+| 동국대 | 컴공, 정통 | 두드림, 학추, 특졸, SW | 31/31/4/10 | - | [here](https://ipsi.dongguk.edu/MnMain.do) |
+| 홍익대 | 컴공 | 교과, 학종 | 54/26 | - | [here](https://ibsi.hongik.ac.kr/gate.html) |
+| 국민대 | SW학부 | 프론티어, 학추, SW특기자 | 34/20/10 | - | [here](http://admission.kookmin.ac.kr/) |
+| 숭실대 | 산정, 컴공, SW, 스마트 | 학종, 특졸, SW특기자 | 63/24/21 | - | [here](http://iphak.ssu.ac.kr/) |
+| 세종대 | 컴공, 보안, SW, 데이터 | 창의인재 | 65 | - | [here](http://ipsi.sejong.ac.kr/) |
+| 단국대 | SW, 컴공 | 학종, 창업인재 | 18/6 | - | [here](http://ipsi.dankook.ac.kr/intro.php) |
+| 아주대 | SW, 보안 | 교과, ACE, 자추, 특졸, SW특기자 | 2/31/15/5/14 | 작년 4점대 | [here](http://www.iajou.ac.kr/main/main.asp) |
+| 순천향대 | SW, 컴공, 보안 | 교과(일반, 특졸), 학종 | 75/8/27 | 작년 3,4점대 | [here](https://ipsi.sch.ac.kr/) |
 
 ## 개별 대학
 
